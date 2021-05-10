@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T14:00:36.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="jdhLtILxxMHK0Yzm4TW9" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T14:07:35.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="FsBEB-7lrY14WFotsryF" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="-WABiNiqANlKv5rKjxGw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-WABiNiqANlKv5rKjxGw-0" target="-WABiNiqANlKv5rKjxGw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-0" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-WABiNiqANlKv5rKjxGw-2" target="-WABiNiqANlKv5rKjxGw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-2" value="Computer kiest woord" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-WABiNiqANlKv5rKjxGw-3" target="-WABiNiqANlKv5rKjxGw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-3" value="Streepjes tekenen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-WABiNiqANlKv5rKjxGw-5" target="-WABiNiqANlKv5rKjxGw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-5" value="Speler kiest letter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-WABiNiqANlKv5rKjxGw-6" target="-WABiNiqANlKv5rKjxGw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-WABiNiqANlKv5rKjxGw-6" target="-WABiNiqANlKv5rKjxGw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-6" value="Letter goed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="355" y="440" width="118" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-WABiNiqANlKv5rKjxGw-13" target="-WABiNiqANlKv5rKjxGw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-13" value="&lt;u&gt;Geen&lt;/u&gt;&amp;nbsp;streepje erbij, letter invullen op juiste plek" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="552" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-WABiNiqANlKv5rKjxGw-15" target="-WABiNiqANlKv5rKjxGw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-15" value="Streepje erbij, letter in lijst van foute letters" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="156" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-WABiNiqANlKv5rKjxGw-22" target="-WABiNiqANlKv5rKjxGw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-22" value="Woord goed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="551" y="560" width="122" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WABiNiqANlKv5rKjxGw-24" value="Speler heeft gewonnen" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
